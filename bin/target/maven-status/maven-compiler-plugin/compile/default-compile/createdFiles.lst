@@ -1,0 +1,5 @@
+com\partnerCN\util\SqlSessionfactoryUtil.class
+com\partnerCN\dao\UserMapper.class
+com\partnerCN\service\IUserService.class
+com\partnerCN\model\User.class
+com\partnerCN\util\GetMethod.class

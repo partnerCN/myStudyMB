@@ -1,0 +1,95 @@
+body{
+    background: #DEDEDE;
+}
+#all{
+    margin: 0 auto;
+    height: auto;!important;
+    min-height: 1000px;
+    height: auto;
+    width: auto !important;
+    min-width: 900px;
+    width: auto;
+    /*background-color: red;*/
+    border: 1px red solid;
+}
+#top{
+    border: 1px red solid;
+    min-height: 110px;
+    height: auto;
+    width: 100%;
+}
+#top-left{
+    float: left;
+    width: 30%;
+    height: 100%;
+    border: 1px red solid;
+}
+#top-right{
+    float: right;
+    width: 30%;
+    height: 100%;
+}
+#top-right-top{
+    height: 50%;
+    width: 100%;
+    border: 1px red solid;
+}
+#top-right-bottom{
+    height: 30px;
+    width: 100%;
+    margin-top: 13%;
+    border: 1px red solid;
+}
+#navigation{
+    font: 12px Verdana, Arial, sans-serif;
+
+}
+#navigation li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+#navigation li a{
+    display: block;
+    padding: 0px 10px;
+    color: #580000;
+    text-decoration: none;
+    border-right: 1px solid #000;
+    width: 25px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+.title{
+    font-family: "微软雅黑 Light";
+    margin-left: 10%;
+}
+
+#center{
+    border: 1px red solid;
+    min-height: 690px;
+    height: auto;
+    width: 100%;
+}
+#center-left{
+    border: 1px red solid;
+    min-height: 690px;
+    height: auto;
+    width: 49%;
+    float: left;
+}
+#center-right{
+    border: 1px red solid;
+    min-height: 690px;
+    height: auto;
+    float: right;
+    width: 50%;
+}
+
+#bottom{
+    border: 1px red solid;
+    height: auto;
+    width: 100%;
+    min-height: 200px;
+}
